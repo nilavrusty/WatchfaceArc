@@ -1,0 +1,216 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\project\wearOs\wear-os-samples\WatchFace\Application\src\main\AndroidManifest.xml:17:1-58:12
+MERGED from [com.google.android.support:wearable:2.4.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-wearable-2.4.0.aar\b3a79ef1d9fc740a8bf44cb04f9fe389\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-wearable:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-wearable-16.0.1.aar\f8242ebf3e6cbba8309471b40ee58605\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\e2d8bd1e81f75d22ab131a08357f9e2e\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\4c8a29495afea9b228b4977d0dfce530\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\05387c874e0d5795d45e61319f073760\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\legacy-support-v13-1.0.0.aar\61453a6c75f4e94701e63267ffe1acec\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\bda932cf71e4c2226a07d0b61cc1cf03\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\c433248330b5e1359e50a0c5df872350\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\9461462be4d6b6fb67cba900b16655d7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\499ce677a7d7de54d47fe281c8a9428b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\4abafdf0f6d7f4cba814dc76cf922f4c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\bfa718c71a566fb3bf842bc6925ec6c0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\553614c1f9615cf7cfef350c7c982083\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\ba9109ac6977898376bbeba60d39c4f4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\80dac404b562f64c231a3e1ed30a9051\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\77a1f86d536d854fbb708753d5b134f5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\percentlayout-1.0.0.aar\c8471a752d1aeb1a77c183e9775d5002\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\0865ba15ccdd476ecc14a29880d031e1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\6c10ab6a27af7323939618c8da870c63\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\f48f3278eebb5a949b9a57d015e5c0bf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\12023ece4a1e5fe316850a5abadfeca9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\92ef977b6ab8bdf42b68808d589dd488\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\4840b5d34691caf7a2e4c0c3745ea79c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\1473de6c3f0652b04a788328b33a6ad8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\14ced0ce37199c5c462d73d4548779d1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\8f6a28fab622c653f8eead6a92fbe7a9\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\d4a06a8b72d8a51e30c5f6842e014b13\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\12f39636309748867850408e75d32f93\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\0fcc327837edb89105a8d7dda33c9c93\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\b2023b99bde579a4551ac45d9eb2bb7a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\d687f6c2c977dd62a39ea0939ebf6f0c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\91ceb5de7820ad5accabddd9d1ddcea7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\c58ab44ab7956fcc065bf0f647620f1e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\645c3bff18e512e477b2b3279afc5525\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\de2328b0c3eaccad7aca2bf6e84db54c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\faaa4cadb0ddbdfc566894a8f47207f1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\439ea89e3e4be556b8304a4acc8b9a2c\AndroidManifest.xml:17:1-22:12
+	package
+		ADDED from D:\project\wearOs\wear-os-samples\WatchFace\Application\src\main\AndroidManifest.xml:18:9-57
+	xmlns:android
+		ADDED from D:\project\wearOs\wear-os-samples\WatchFace\Application\src\main\AndroidManifest.xml:17:11-69
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\project\wearOs\wear-os-samples\WatchFace\Application\src\main\AndroidManifest.xml:21:5-68
+	android:name
+		ADDED from D:\project\wearOs\wear-os-samples\WatchFace\Application\src\main\AndroidManifest.xml:21:22-65
+application
+ADDED from D:\project\wearOs\wear-os-samples\WatchFace\Application\src\main\AndroidManifest.xml:27:5-57:19
+MERGED from [com.google.android.support:wearable:2.4.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-wearable-2.4.0.aar\b3a79ef1d9fc740a8bf44cb04f9fe389\AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.android.support:wearable:2.4.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-wearable-2.4.0.aar\b3a79ef1d9fc740a8bf44cb04f9fe389\AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.android.gms:play-services-wearable:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-wearable-16.0.1.aar\f8242ebf3e6cbba8309471b40ee58605\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-wearable-16.0.1.aar\f8242ebf3e6cbba8309471b40ee58605\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\e2d8bd1e81f75d22ab131a08357f9e2e\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\e2d8bd1e81f75d22ab131a08357f9e2e\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\4c8a29495afea9b228b4977d0dfce530\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\4c8a29495afea9b228b4977d0dfce530\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\05387c874e0d5795d45e61319f073760\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\05387c874e0d5795d45e61319f073760\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\8f6a28fab622c653f8eead6a92fbe7a9\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\8f6a28fab622c653f8eead6a92fbe7a9\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\d4a06a8b72d8a51e30c5f6842e014b13\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\d4a06a8b72d8a51e30c5f6842e014b13\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\8f6a28fab622c653f8eead6a92fbe7a9\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from D:\project\wearOs\wear-os-samples\WatchFace\Application\src\main\AndroidManifest.xml:30:13-45
+	android:icon
+		ADDED from D:\project\wearOs\wear-os-samples\WatchFace\Application\src\main\AndroidManifest.xml:29:13-49
+	android:allowBackup
+		ADDED from D:\project\wearOs\wear-os-samples\WatchFace\Application\src\main\AndroidManifest.xml:28:13-39
+	android:theme
+		ADDED from D:\project\wearOs\wear-os-samples\WatchFace\Application\src\main\AndroidManifest.xml:31:13-44
+activity#com.example.android.wearable.watchface.DigitalWatchFaceCompanionConfigActivity
+ADDED from D:\project\wearOs\wear-os-samples\WatchFace\Application\src\main\AndroidManifest.xml:33:9-41:20
+	android:label
+		ADDED from D:\project\wearOs\wear-os-samples\WatchFace\Application\src\main\AndroidManifest.xml:35:17-49
+	android:name
+		ADDED from D:\project\wearOs\wear-os-samples\WatchFace\Application\src\main\AndroidManifest.xml:34:17-72
+intent-filter#action:name:com.example.android.wearable.watchface.CONFIG_DIGITAL+category:name:android.intent.category.DEFAULT+category:name:com.google.android.wearable.watchface.category.COMPANION_CONFIGURATION
+ADDED from D:\project\wearOs\wear-os-samples\WatchFace\Application\src\main\AndroidManifest.xml:36:13-40:29
+action#com.example.android.wearable.watchface.CONFIG_DIGITAL
+ADDED from D:\project\wearOs\wear-os-samples\WatchFace\Application\src\main\AndroidManifest.xml:37:17-96
+	android:name
+		ADDED from D:\project\wearOs\wear-os-samples\WatchFace\Application\src\main\AndroidManifest.xml:37:25-93
+category#com.google.android.wearable.watchface.category.COMPANION_CONFIGURATION
+ADDED from D:\project\wearOs\wear-os-samples\WatchFace\Application\src\main\AndroidManifest.xml:38:17-115
+	android:name
+		ADDED from D:\project\wearOs\wear-os-samples\WatchFace\Application\src\main\AndroidManifest.xml:38:27-112
+category#android.intent.category.DEFAULT
+ADDED from D:\project\wearOs\wear-os-samples\WatchFace\Application\src\main\AndroidManifest.xml:39:17-76
+	android:name
+		ADDED from D:\project\wearOs\wear-os-samples\WatchFace\Application\src\main\AndroidManifest.xml:39:27-73
+activity#com.example.android.wearable.watchface.OpenGLWatchFaceConfigActivity
+ADDED from D:\project\wearOs\wear-os-samples\WatchFace\Application\src\main\AndroidManifest.xml:43:9-51:20
+	android:label
+		ADDED from D:\project\wearOs\wear-os-samples\WatchFace\Application\src\main\AndroidManifest.xml:45:17-49
+	android:name
+		ADDED from D:\project\wearOs\wear-os-samples\WatchFace\Application\src\main\AndroidManifest.xml:44:17-62
+intent-filter#action:name:com.example.android.wearable.watchface.CONFIG_OPENGL+category:name:android.intent.category.DEFAULT+category:name:com.google.android.wearable.watchface.category.COMPANION_CONFIGURATION
+ADDED from D:\project\wearOs\wear-os-samples\WatchFace\Application\src\main\AndroidManifest.xml:46:13-50:29
+action#com.example.android.wearable.watchface.CONFIG_OPENGL
+ADDED from D:\project\wearOs\wear-os-samples\WatchFace\Application\src\main\AndroidManifest.xml:47:17-95
+	android:name
+		ADDED from D:\project\wearOs\wear-os-samples\WatchFace\Application\src\main\AndroidManifest.xml:47:25-92
+meta-data#com.google.android.gms.version
+ADDED from D:\project\wearOs\wear-os-samples\WatchFace\Application\src\main\AndroidManifest.xml:53:9-55:73
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\05387c874e0d5795d45e61319f073760\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\05387c874e0d5795d45e61319f073760\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from D:\project\wearOs\wear-os-samples\WatchFace\Application\src\main\AndroidManifest.xml:55:17-70
+	android:name
+		ADDED from D:\project\wearOs\wear-os-samples\WatchFace\Application\src\main\AndroidManifest.xml:54:17-62
+uses-sdk
+INJECTED from D:\project\wearOs\wear-os-samples\WatchFace\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\project\wearOs\wear-os-samples\WatchFace\Application\src\main\AndroidManifest.xml
+INJECTED from D:\project\wearOs\wear-os-samples\WatchFace\Application\src\main\AndroidManifest.xml
+MERGED from [com.google.android.support:wearable:2.4.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-wearable-2.4.0.aar\b3a79ef1d9fc740a8bf44cb04f9fe389\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.support:wearable:2.4.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-wearable-2.4.0.aar\b3a79ef1d9fc740a8bf44cb04f9fe389\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-wearable:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-wearable-16.0.1.aar\f8242ebf3e6cbba8309471b40ee58605\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-wearable-16.0.1.aar\f8242ebf3e6cbba8309471b40ee58605\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\e2d8bd1e81f75d22ab131a08357f9e2e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\e2d8bd1e81f75d22ab131a08357f9e2e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\4c8a29495afea9b228b4977d0dfce530\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\4c8a29495afea9b228b4977d0dfce530\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\05387c874e0d5795d45e61319f073760\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\05387c874e0d5795d45e61319f073760\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\legacy-support-v13-1.0.0.aar\61453a6c75f4e94701e63267ffe1acec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\legacy-support-v13-1.0.0.aar\61453a6c75f4e94701e63267ffe1acec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\bda932cf71e4c2226a07d0b61cc1cf03\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\bda932cf71e4c2226a07d0b61cc1cf03\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\c433248330b5e1359e50a0c5df872350\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\c433248330b5e1359e50a0c5df872350\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\9461462be4d6b6fb67cba900b16655d7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\9461462be4d6b6fb67cba900b16655d7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\499ce677a7d7de54d47fe281c8a9428b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\499ce677a7d7de54d47fe281c8a9428b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\4abafdf0f6d7f4cba814dc76cf922f4c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\4abafdf0f6d7f4cba814dc76cf922f4c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\bfa718c71a566fb3bf842bc6925ec6c0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\bfa718c71a566fb3bf842bc6925ec6c0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\553614c1f9615cf7cfef350c7c982083\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\553614c1f9615cf7cfef350c7c982083\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\ba9109ac6977898376bbeba60d39c4f4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\ba9109ac6977898376bbeba60d39c4f4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\80dac404b562f64c231a3e1ed30a9051\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\80dac404b562f64c231a3e1ed30a9051\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\77a1f86d536d854fbb708753d5b134f5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\77a1f86d536d854fbb708753d5b134f5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\percentlayout-1.0.0.aar\c8471a752d1aeb1a77c183e9775d5002\AndroidManifest.xml:20:5-44
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\percentlayout-1.0.0.aar\c8471a752d1aeb1a77c183e9775d5002\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\0865ba15ccdd476ecc14a29880d031e1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\0865ba15ccdd476ecc14a29880d031e1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\6c10ab6a27af7323939618c8da870c63\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\6c10ab6a27af7323939618c8da870c63\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\f48f3278eebb5a949b9a57d015e5c0bf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\f48f3278eebb5a949b9a57d015e5c0bf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\12023ece4a1e5fe316850a5abadfeca9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\12023ece4a1e5fe316850a5abadfeca9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\92ef977b6ab8bdf42b68808d589dd488\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\92ef977b6ab8bdf42b68808d589dd488\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\4840b5d34691caf7a2e4c0c3745ea79c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\4840b5d34691caf7a2e4c0c3745ea79c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\1473de6c3f0652b04a788328b33a6ad8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\1473de6c3f0652b04a788328b33a6ad8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\14ced0ce37199c5c462d73d4548779d1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\14ced0ce37199c5c462d73d4548779d1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\8f6a28fab622c653f8eead6a92fbe7a9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\8f6a28fab622c653f8eead6a92fbe7a9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\d4a06a8b72d8a51e30c5f6842e014b13\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\d4a06a8b72d8a51e30c5f6842e014b13\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\12f39636309748867850408e75d32f93\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\12f39636309748867850408e75d32f93\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\0fcc327837edb89105a8d7dda33c9c93\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\0fcc327837edb89105a8d7dda33c9c93\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\b2023b99bde579a4551ac45d9eb2bb7a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\b2023b99bde579a4551ac45d9eb2bb7a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\d687f6c2c977dd62a39ea0939ebf6f0c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\d687f6c2c977dd62a39ea0939ebf6f0c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\91ceb5de7820ad5accabddd9d1ddcea7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\91ceb5de7820ad5accabddd9d1ddcea7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\c58ab44ab7956fcc065bf0f647620f1e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\c58ab44ab7956fcc065bf0f647620f1e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\645c3bff18e512e477b2b3279afc5525\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\645c3bff18e512e477b2b3279afc5525\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\de2328b0c3eaccad7aca2bf6e84db54c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\de2328b0c3eaccad7aca2bf6e84db54c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\faaa4cadb0ddbdfc566894a8f47207f1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\faaa4cadb0ddbdfc566894a8f47207f1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\439ea89e3e4be556b8304a4acc8b9a2c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\439ea89e3e4be556b8304a4acc8b9a2c\AndroidManifest.xml:20:5-44
+INJECTED from D:\project\wearOs\wear-os-samples\WatchFace\Application\src\main\AndroidManifest.xml
+INJECTED from D:\project\wearOs\wear-os-samples\WatchFace\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\project\wearOs\wear-os-samples\WatchFace\Application\src\main\AndroidManifest.xml
+		ADDED from D:\project\wearOs\wear-os-samples\WatchFace\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\project\wearOs\wear-os-samples\WatchFace\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\project\wearOs\wear-os-samples\WatchFace\Application\src\main\AndroidManifest.xml
+		ADDED from D:\project\wearOs\wear-os-samples\WatchFace\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\project\wearOs\wear-os-samples\WatchFace\Application\src\main\AndroidManifest.xml
+uses-library#com.google.android.wearable
+ADDED from [com.google.android.support:wearable:2.4.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-wearable-2.4.0.aar\b3a79ef1d9fc740a8bf44cb04f9fe389\AndroidManifest.xml:10:9-12:40
+	android:required
+		ADDED from [com.google.android.support:wearable:2.4.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-wearable-2.4.0.aar\b3a79ef1d9fc740a8bf44cb04f9fe389\AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [com.google.android.support:wearable:2.4.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-wearable-2.4.0.aar\b3a79ef1d9fc740a8bf44cb04f9fe389\AndroidManifest.xml:11:13-55
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\e2d8bd1e81f75d22ab131a08357f9e2e\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\e2d8bd1e81f75d22ab131a08357f9e2e\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\e2d8bd1e81f75d22ab131a08357f9e2e\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\e2d8bd1e81f75d22ab131a08357f9e2e\AndroidManifest.xml:24:13-79

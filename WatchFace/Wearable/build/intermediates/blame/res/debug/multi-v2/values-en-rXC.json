@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\project\\wearOs\\WatchfaceArc\\WatchFace\\Wearable\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rXC\\values-en-rXC.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Neelabh\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\5f3443d1390347f43d9cef806f51f370\\res\\values-en-rXC\\values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "202",
+                        "endOffsets": "253"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Neelabh\\.gradle\\caches\\transforms-1\\files-1.1\\wear-1.0.0.aar\\a236295919be246cc62d43a59c05027f\\res\\values-en-rXC\\values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,264",
+                        "endColumns": "208,218",
+                        "endOffsets": "259,478"
+                    },
+                    "to": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "258,467",
+                        "endColumns": "208,218",
+                        "endOffsets": "462,681"
+                    }
+                }
+            ]
+        }
+    ]
+}

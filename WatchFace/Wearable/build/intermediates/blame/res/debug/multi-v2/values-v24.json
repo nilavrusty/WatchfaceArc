@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\project\\wearOs\\WatchfaceArc\\WatchFace\\Wearable\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Neelabh\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0.aar\\499ce677a7d7de54d47fe281c8a9428b\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,121,182,248",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "116,177,243,310"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Neelabh\\.gradle\\caches\\transforms-1\\files-1.1\\wear-1.0.0.aar\\a236295919be246cc62d43a59c05027f\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "929"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "315",
+                        "endLines": "18",
+                        "endColumns": "12",
+                        "endOffsets": "1189"
+                    }
+                }
+            ]
+        }
+    ]
+}

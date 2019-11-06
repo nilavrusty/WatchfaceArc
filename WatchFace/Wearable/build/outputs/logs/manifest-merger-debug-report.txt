@@ -1,0 +1,373 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:17:1-213:12
+INJECTED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:17:1-213:12
+INJECTED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:17:1-213:12
+MERGED from [androidx.palette:palette:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\palette-1.0.0.aar\3110f9cefdc98d8782761afb051fd452\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.wear:wear:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\wear-1.0.0.aar\a236295919be246cc62d43a59c05027f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\legacy-support-v13-1.0.0.aar\61453a6c75f4e94701e63267ffe1acec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-wearable:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-wearable-16.0.1.aar\f8242ebf3e6cbba8309471b40ee58605\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.support:wearable:2.4.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-wearable-2.4.0.aar\b3a79ef1d9fc740a8bf44cb04f9fe389\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\e2d8bd1e81f75d22ab131a08357f9e2e\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\4c8a29495afea9b228b4977d0dfce530\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\05387c874e0d5795d45e61319f073760\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\bda932cf71e4c2226a07d0b61cc1cf03\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\4abafdf0f6d7f4cba814dc76cf922f4c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\553614c1f9615cf7cfef350c7c982083\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\ba9109ac6977898376bbeba60d39c4f4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\80dac404b562f64c231a3e1ed30a9051\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\percentlayout-1.0.0.aar\c8471a752d1aeb1a77c183e9775d5002\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\0865ba15ccdd476ecc14a29880d031e1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\6c10ab6a27af7323939618c8da870c63\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\f48f3278eebb5a949b9a57d015e5c0bf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\12023ece4a1e5fe316850a5abadfeca9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\92ef977b6ab8bdf42b68808d589dd488\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\4840b5d34691caf7a2e4c0c3745ea79c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\1473de6c3f0652b04a788328b33a6ad8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\14ced0ce37199c5c462d73d4548779d1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\499ce677a7d7de54d47fe281c8a9428b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\5f3443d1390347f43d9cef806f51f370\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\d4a06a8b72d8a51e30c5f6842e014b13\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\645c3bff18e512e477b2b3279afc5525\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\0fcc327837edb89105a8d7dda33c9c93\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\b2023b99bde579a4551ac45d9eb2bb7a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\d687f6c2c977dd62a39ea0939ebf6f0c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\91ceb5de7820ad5accabddd9d1ddcea7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\12f39636309748867850408e75d32f93\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\c58ab44ab7956fcc065bf0f647620f1e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\de2328b0c3eaccad7aca2bf6e84db54c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\faaa4cadb0ddbdfc566894a8f47207f1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\439ea89e3e4be556b8304a4acc8b9a2c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.0.aar\f314278a216c466bc01a1e615c46990f\AndroidManifest.xml:2:1-11:12
+INJECTED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:17:1-213:12
+INJECTED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:17:1-213:12
+	package
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:17:11-59
+	android:versionName
+		INJECTED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:17:1-213:12
+		INJECTED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:17:1-213:12
+		INJECTED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:18:11-69
+uses-feature#android.hardware.type.watch
+ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:20:5-63
+	android:name
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:20:19-61
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:23:22-65
+uses-permission#com.google.android.wearable.permission.RECEIVE_COMPLICATION_DATA
+ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:26:5-103
+	android:name
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:26:22-101
+application
+ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:28:5-212:19
+MERGED from [com.google.android.gms:play-services-wearable:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-wearable-16.0.1.aar\f8242ebf3e6cbba8309471b40ee58605\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-wearable-16.0.1.aar\f8242ebf3e6cbba8309471b40ee58605\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.support:wearable:2.4.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-wearable-2.4.0.aar\b3a79ef1d9fc740a8bf44cb04f9fe389\AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.android.support:wearable:2.4.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-wearable-2.4.0.aar\b3a79ef1d9fc740a8bf44cb04f9fe389\AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\e2d8bd1e81f75d22ab131a08357f9e2e\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\e2d8bd1e81f75d22ab131a08357f9e2e\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\4c8a29495afea9b228b4977d0dfce530\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\4c8a29495afea9b228b4977d0dfce530\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\05387c874e0d5795d45e61319f073760\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\05387c874e0d5795d45e61319f073760\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\5f3443d1390347f43d9cef806f51f370\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\5f3443d1390347f43d9cef806f51f370\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\d4a06a8b72d8a51e30c5f6842e014b13\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\d4a06a8b72d8a51e30c5f6842e014b13\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.0.aar\f314278a216c466bc01a1e615c46990f\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.0.aar\f314278a216c466bc01a1e615c46990f\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\5f3443d1390347f43d9cef806f51f370\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:31:9-41
+	android:icon
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:30:9-45
+	android:allowBackup
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:29:9-35
+meta-data#com.google.android.wearable.standalone
+ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:32:9-34:35
+	android:value
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:34:13-33
+	android:name
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:33:13-66
+meta-data#com.google.android.gms.version
+ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:35:9-37:68
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\05387c874e0d5795d45e61319f073760\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\05387c874e0d5795d45e61319f073760\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:37:13-66
+	android:name
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:36:13-58
+uses-library#com.google.android.wearable
+ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:39:9-41:39
+MERGED from [com.google.android.support:wearable:2.4.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-wearable-2.4.0.aar\b3a79ef1d9fc740a8bf44cb04f9fe389\AndroidManifest.xml:10:9-12:40
+MERGED from [com.google.android.support:wearable:2.4.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-wearable-2.4.0.aar\b3a79ef1d9fc740a8bf44cb04f9fe389\AndroidManifest.xml:10:9-12:40
+	android:required
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:40:13-55
+service#com.example.android.wearable.watchface.watchface.OpenGLWatchFaceService
+ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:43:9-65:19
+	android:label
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:45:13-48
+	android:permission
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:46:13-67
+	android:name
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:44:13-61
+meta-data#android.service.wallpaper
+ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:47:13-49:53
+	android:resource
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:49:17-51
+	android:name
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:48:17-57
+meta-data#com.google.android.wearable.watchface.preview
+ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:50:13-52:62
+	android:resource
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:52:17-60
+	android:name
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:51:17-77
+meta-data#com.google.android.wearable.watchface.preview_circular
+ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:53:13-55:71
+	android:resource
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:55:17-69
+	android:name
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:54:17-86
+meta-data#com.google.android.wearable.watchface.companionConfigurationAction
+ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:56:13-58:87
+	android:value
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:58:17-85
+	android:name
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:57:17-98
+intent-filter#action:name:android.service.wallpaper.WallpaperService+category:name:com.google.android.wearable.watchface.category.WATCH_FACE
+ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:60:13-64:29
+action#android.service.wallpaper.WallpaperService
+ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:61:17-84
+	android:name
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:61:25-82
+category#com.google.android.wearable.watchface.category.WATCH_FACE
+ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:63:17-101
+	android:name
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:63:27-99
+service#com.example.android.wearable.watchface.watchface.AnalogComplicationWatchFaceService
+ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:66:9-89:19
+	android:enabled
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:68:13-35
+	android:label
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:69:13-56
+	android:permission
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:70:13-67
+	android:name
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:67:13-73
+meta-data#com.google.android.wearable.watchface.wearableConfigurationAction
+ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:80:13-82:100
+	android:value
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:82:17-98
+	android:name
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:81:17-97
+activity#android.support.wearable.complications.ComplicationHelperActivity
+ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:91:9-101
+	android:name
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:91:19-99
+activity#com.example.android.wearable.watchface.config.AnalogComplicationConfigActivity
+ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:92:9-101:20
+	android:label
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:94:13-63
+	android:name
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:93:13-68
+intent-filter#action:name:com.example.android.wearable.watchface.CONFIG_COMPLICATION_SIMPLE+category:name:android.intent.category.DEFAULT+category:name:com.google.android.wearable.watchface.category.WEARABLE_CONFIGURATION
+ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:95:13-100:29
+action#com.example.android.wearable.watchface.CONFIG_COMPLICATION_SIMPLE
+ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:96:17-107
+	android:name
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:96:25-105
+category#com.google.android.wearable.watchface.category.WEARABLE_CONFIGURATION
+ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:98:17-113
+	android:name
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:98:27-111
+category#android.intent.category.DEFAULT
+ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:99:17-75
+	android:name
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:99:27-73
+service#com.example.android.wearable.watchface.watchface.InteractiveWatchFaceService
+ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:103:9-122:19
+	android:label
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:105:13-53
+	android:permission
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:106:13-67
+	android:name
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:104:13-66
+service#com.example.android.wearable.watchface.watchface.DigitalWatchFaceService
+ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:124:9-149:19
+	android:label
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:126:13-49
+	android:permission
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:127:13-67
+	android:name
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:125:13-62
+activity#com.example.android.wearable.watchface.config.DigitalWatchFaceWearableConfigActivity
+ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:157:9-166:20
+	android:label
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:159:13-56
+	android:name
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:158:13-74
+intent-filter#action:name:com.example.android.wearable.watchface.CONFIG_DIGITAL+category:name:android.intent.category.DEFAULT+category:name:com.google.android.wearable.watchface.category.WEARABLE_CONFIGURATION
+ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:160:13-165:29
+action#com.example.android.wearable.watchface.CONFIG_DIGITAL
+ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:161:17-95
+	android:name
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:161:25-93
+service#com.example.android.wearable.watchface.config.DigitalWatchFaceConfigListenerService
+ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:168:9-177:19
+	android:name
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:168:18-78
+intent-filter#action:name:com.google.android.gms.wearable.MESSAGE_RECEIVED+data:host:*+data:pathPrefix:/+data:scheme:wear
+ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:169:13-176:29
+action#com.google.android.gms.wearable.MESSAGE_RECEIVED
+ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:170:17-90
+	android:name
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:170:25-88
+data
+ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:172:17-175:44
+	android:host
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:173:21-37
+	android:scheme
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:175:21-42
+	android:pathPrefix
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:174:21-43
+service#com.example.android.wearable.watchface.provider.IncrementingNumberComplicationProviderService
+ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:179:9-208:19
+	android:label
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:182:13-79
+	android:permission
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:183:13-99
+	android:icon
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:181:13-55
+	android:name
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:180:13-83
+intent-filter#action:name:android.support.wearable.complications.ACTION_COMPLICATION_UPDATE_REQUEST
+ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:184:13-186:29
+action#android.support.wearable.complications.ACTION_COMPLICATION_UPDATE_REQUEST
+ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:185:17-115
+	android:name
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:185:25-113
+meta-data#android.support.wearable.complications.SUPPORTED_TYPES
+ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:188:13-190:68
+	android:value
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:190:17-66
+	android:name
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:189:17-86
+meta-data#android.support.wearable.complications.UPDATE_PERIOD_SECONDS
+ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:205:13-207:36
+	android:value
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:207:17-34
+	android:name
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:206:17-92
+receiver#com.example.android.wearable.watchface.provider.ComplicationToggleReceiver
+ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:209:9-72
+	android:name
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:209:19-70
+activity#com.example.android.wearable.watchface.config.ColorSelectionActivity
+ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:211:9-66
+	android:name
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml:211:19-64
+uses-sdk
+INJECTED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml
+INJECTED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml
+MERGED from [androidx.palette:palette:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\palette-1.0.0.aar\3110f9cefdc98d8782761afb051fd452\AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\palette-1.0.0.aar\3110f9cefdc98d8782761afb051fd452\AndroidManifest.xml:20:5-44
+MERGED from [androidx.wear:wear:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\wear-1.0.0.aar\a236295919be246cc62d43a59c05027f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.wear:wear:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\wear-1.0.0.aar\a236295919be246cc62d43a59c05027f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\legacy-support-v13-1.0.0.aar\61453a6c75f4e94701e63267ffe1acec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\legacy-support-v13-1.0.0.aar\61453a6c75f4e94701e63267ffe1acec\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-wearable-16.0.1.aar\f8242ebf3e6cbba8309471b40ee58605\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-wearable-16.0.1.aar\f8242ebf3e6cbba8309471b40ee58605\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.support:wearable:2.4.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-wearable-2.4.0.aar\b3a79ef1d9fc740a8bf44cb04f9fe389\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.support:wearable:2.4.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-wearable-2.4.0.aar\b3a79ef1d9fc740a8bf44cb04f9fe389\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\e2d8bd1e81f75d22ab131a08357f9e2e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\e2d8bd1e81f75d22ab131a08357f9e2e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\4c8a29495afea9b228b4977d0dfce530\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\4c8a29495afea9b228b4977d0dfce530\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\05387c874e0d5795d45e61319f073760\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\05387c874e0d5795d45e61319f073760\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\bda932cf71e4c2226a07d0b61cc1cf03\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\bda932cf71e4c2226a07d0b61cc1cf03\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\4abafdf0f6d7f4cba814dc76cf922f4c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\4abafdf0f6d7f4cba814dc76cf922f4c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\553614c1f9615cf7cfef350c7c982083\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\553614c1f9615cf7cfef350c7c982083\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\ba9109ac6977898376bbeba60d39c4f4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\ba9109ac6977898376bbeba60d39c4f4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\80dac404b562f64c231a3e1ed30a9051\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\80dac404b562f64c231a3e1ed30a9051\AndroidManifest.xml:20:5-44
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\percentlayout-1.0.0.aar\c8471a752d1aeb1a77c183e9775d5002\AndroidManifest.xml:20:5-44
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\percentlayout-1.0.0.aar\c8471a752d1aeb1a77c183e9775d5002\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\0865ba15ccdd476ecc14a29880d031e1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\0865ba15ccdd476ecc14a29880d031e1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\6c10ab6a27af7323939618c8da870c63\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\6c10ab6a27af7323939618c8da870c63\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\f48f3278eebb5a949b9a57d015e5c0bf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\f48f3278eebb5a949b9a57d015e5c0bf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\12023ece4a1e5fe316850a5abadfeca9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\12023ece4a1e5fe316850a5abadfeca9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\92ef977b6ab8bdf42b68808d589dd488\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\92ef977b6ab8bdf42b68808d589dd488\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\4840b5d34691caf7a2e4c0c3745ea79c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\4840b5d34691caf7a2e4c0c3745ea79c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\1473de6c3f0652b04a788328b33a6ad8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\1473de6c3f0652b04a788328b33a6ad8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\14ced0ce37199c5c462d73d4548779d1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\14ced0ce37199c5c462d73d4548779d1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\499ce677a7d7de54d47fe281c8a9428b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\499ce677a7d7de54d47fe281c8a9428b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\5f3443d1390347f43d9cef806f51f370\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\5f3443d1390347f43d9cef806f51f370\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\d4a06a8b72d8a51e30c5f6842e014b13\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\d4a06a8b72d8a51e30c5f6842e014b13\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\645c3bff18e512e477b2b3279afc5525\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\645c3bff18e512e477b2b3279afc5525\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\0fcc327837edb89105a8d7dda33c9c93\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\0fcc327837edb89105a8d7dda33c9c93\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\b2023b99bde579a4551ac45d9eb2bb7a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\b2023b99bde579a4551ac45d9eb2bb7a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\d687f6c2c977dd62a39ea0939ebf6f0c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\d687f6c2c977dd62a39ea0939ebf6f0c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\91ceb5de7820ad5accabddd9d1ddcea7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\91ceb5de7820ad5accabddd9d1ddcea7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\12f39636309748867850408e75d32f93\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\12f39636309748867850408e75d32f93\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\c58ab44ab7956fcc065bf0f647620f1e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\c58ab44ab7956fcc065bf0f647620f1e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\de2328b0c3eaccad7aca2bf6e84db54c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\de2328b0c3eaccad7aca2bf6e84db54c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\faaa4cadb0ddbdfc566894a8f47207f1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\faaa4cadb0ddbdfc566894a8f47207f1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\439ea89e3e4be556b8304a4acc8b9a2c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\439ea89e3e4be556b8304a4acc8b9a2c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.0.aar\f314278a216c466bc01a1e615c46990f\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.0.aar\f314278a216c466bc01a1e615c46990f\AndroidManifest.xml:5:5-7:41
+INJECTED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml
+INJECTED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml
+		INJECTED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml
+		ADDED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml
+		INJECTED from D:\project\wearOs\WatchfaceArc\WatchFace\Wearable\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\e2d8bd1e81f75d22ab131a08357f9e2e\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\e2d8bd1e81f75d22ab131a08357f9e2e\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\e2d8bd1e81f75d22ab131a08357f9e2e\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Neelabh\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\e2d8bd1e81f75d22ab131a08357f9e2e\AndroidManifest.xml:24:13-79
